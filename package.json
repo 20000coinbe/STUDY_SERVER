@@ -1,0 +1,25 @@
+{
+  "name": "STUDY_SERVER",
+  "version": "1.0.0",
+  "description": "Node.js/Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20000coinbe/STUDY_SERVER.git"
+  },
+  "keywords": [],
+  "author": "20000coinbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20000coinbe/STUDY_SERVER/issues"
+  },
+  "homepage": "https://github.com/20000coinbe/STUDY_SERVER#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  }
+}
